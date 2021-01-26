@@ -1,9 +1,4 @@
 
-
-<!--
-**MASHOD0/MASHOD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # Hello World !
 I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of engineering .
 
@@ -15,4 +10,3 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 - 💬 Ask me about AI , Python and R.
 - 📫 How to reach me: my email id - mashhood2002@gmail.com , discord - @3lm_____ #4309
 
--->
