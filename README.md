@@ -39,7 +39,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 ## 🤝🏻 &nbsp;Connect with Me
 
 - 📫 How to reach me: my email id - mashhood2002@gmail.com 
-a href="https://twitter.com/3lm_____">
+<a href="https://twitter.com/3lm_____">
   <img align="left" alt="Mashhood's | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
   <a href="https://discord.gg/39RYSTj">
