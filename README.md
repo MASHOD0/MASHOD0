@@ -38,13 +38,5 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.mashhoodalam.webs.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mashhood-alam"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mashhood2002@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/3lm_____"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&lgoColor=white"/></a>
-
-
-</p>
-- 📫 How to reach me: my email id -  , discord - @3lm_____ #4309
+- 📫 How to reach me: my email id - mashhood2002@gmail.com , discord - @3lm_____ #4309
 
