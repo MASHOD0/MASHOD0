@@ -1,6 +1,6 @@
 
 # Hello World !
-I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of engineering .
+I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of Engineering .
 
 
 - 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch)
