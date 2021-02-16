@@ -8,7 +8,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 - 👯 I’m looking to collaborate on AI and ML related projects.
 - 🤔 I’m looking for help with Natural Search related problems in my project .
 - 💬 Ask me about AI , Python and R.
-[Alt Text](https://github.com/MASHOD0/MASHOD0/blob/main/assets/programming.gif)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -36,7 +36,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
+![Alt Text](https://github.com/MASHOD0/MASHOD0/blob/main/assets/programming.gif)
 ## 🤝🏻 &nbsp;Connect with Me
 
 - 📫 How to reach me: my email id - mashhood2002@gmail.com 
