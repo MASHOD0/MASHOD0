@@ -6,7 +6,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 - 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch) and [You](https://github.com/MASHOD0/You)
 - 🌱 I’m currently learning data science .
 - 👯 I’m looking to collaborate on AI & ML and automation related  projects.
-- 🤔 I’m looking for help with Natural Search and Sentiment Analysis related problems in my project .
+- 🤔 I’m looking for help with Natural Search and Sentiment Analysis related problems in my projects .
 - 💬 Ask me about AI , Python and R.
 
 ## ⚙️ &nbsp;GitHub Analytics
