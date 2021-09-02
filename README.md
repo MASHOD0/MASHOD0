@@ -2,7 +2,7 @@
 # ```Hello, World!```
 I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of Engineering .
 ![Views](https://komarev.com/ghpvc/?username=MASHOD0)
-![YHype](https://hit.yhype.me/github/profile?user_id=63853764)
+![](https://hit.yhype.me/github/profile?user_id=63853764)
 
 - 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch) and [You](https://github.com/MASHOD0/You)
 - 🌱 I’m currently learning data science .
