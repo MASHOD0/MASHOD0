@@ -16,6 +16,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MASHOD0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MASHOD0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+ ![](https://komarev.com/ghpvc/?username=MASHOD0)
 </p>
 
 ## 🛠 &nbsp;Tech Stack
