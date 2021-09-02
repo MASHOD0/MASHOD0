@@ -1,7 +1,7 @@
 
 # ```Hello, World!```
 I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of Engineering .
-
+![Views](https://komarev.com/ghpvc/?username=MASHOD0)
 
 - 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch) and [You](https://github.com/MASHOD0/You)
 - 🌱 I’m currently learning data science .
@@ -17,7 +17,7 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MASHOD0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![](https://komarev.com/ghpvc/?username=MASHOD0)
+
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
