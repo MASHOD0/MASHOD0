@@ -11,15 +11,15 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 - 💬 Ask me about AI , Python, R and webscrapping.
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MASHOD0&theme=dark)](https://git.io/streak-stats)
+![Views](https://komarev.com/ghpvc/?username=MASHOD0)
 <p align="center">
 <a href="https://github.com/MASHOD0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MASHOD0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MASHOD0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MASHOD0&theme=dark)](https://git.io/streak-stats)
-![Views](https://komarev.com/ghpvc/?username=MASHOD0)
+
 
 ## 🛠 &nbsp;Tech Stack
 
