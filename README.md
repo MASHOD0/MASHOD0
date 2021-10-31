@@ -51,3 +51,5 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
   <img align="left" alt="Mashhood's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
     </a>
 
+## College Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=DSA)](https://github.com/MASHOD0/DSA)
