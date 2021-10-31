@@ -53,3 +53,11 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 
 ## College Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=DSA)](https://github.com/MASHOD0/DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=ATFL)](https://github.com/MASHOD0/ATFL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=OPJ)](https://github.com/MASHOD0/OPJ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=PIC)](https://github.com/MASHOD0/PIC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=DSCEWebinar)](https://github.com/MASHOD0/DSCEWebinar)
+
+
+
+
