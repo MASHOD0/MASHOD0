@@ -1,10 +1,10 @@
 
 # ```Hello, World!```
-I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engineering in Dayananda Sagar College of Engineering .
+I am Mashhood Alam , I am in my sophmore year Studying Computer Science and Engineering in Dayananda Sagar College of Engineering .
 
 ![](https://hit.yhype.me/github/profile?user_id=63853764)
 
-- 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch) and [You](https://github.com/MASHOD0/You)
+- 🔭 I’m currently working on many projects the main being [ProjectSearch](https://github.com/MASHOD0/ProjectSearch) and [MEEM](https://github.com/MASHOD0/MEEM)
 - 🌱 I’m currently learning data science .
 - 👯 I’m looking to collaborate on AI & ML and automation related  projects .
 - 🤔 I’m looking for help with Natural Search and Sentiment Analysis related problems in my projects .
