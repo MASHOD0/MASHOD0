@@ -58,7 +58,5 @@ I am Mashhood Alam , I am in my sophmore year Studying Computer Science and Engi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=OPJ)](https://github.com/MASHOD0/OPJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=PIC)](https://github.com/MASHOD0/PIC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=DSCEWebinar)](https://github.com/MASHOD0/DSCEWebinar)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASHOD0&repo=GraphTheory)](https://github.com/MASHOD0/GraphTheory)
 
