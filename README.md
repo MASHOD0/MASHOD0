@@ -18,10 +18,10 @@ I am Mashhood Alam , I am in my freshman year Studying Computer Science and Engi
 </a>
 </p>
 
-<center>
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MASHOD0&theme=dark)](https://git.io/streak-stats)
+-->
 ![Views](https://komarev.com/ghpvc/?username=MASHOD0)
-</center>
 
 ## 🛠 &nbsp;Tech Stack
 
